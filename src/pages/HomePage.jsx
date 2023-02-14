@@ -33,7 +33,7 @@ const HomePage = () => {
     <div>
         <section className="home bd-grid" id="home">
                 <div className="home__data">
-                    <h1 className="home__title">Hi, <br /> I'am <span className="home__title-color">Sammed</span> <br />  {title} </h1>
+                    <h1 className="home__title">Hi, <br /> I'am <span className="home__title-color">Sammed</span> <br />  {title} <br /> <span className="locaion">Silicon valley, Bangalore</span>  </h1>
 
                     <a href="#" className="button">Contact</a>
                 </div>
