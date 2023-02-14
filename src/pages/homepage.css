@@ -36,6 +36,11 @@
 .home__img {
     position: absolute;
     right: 0;
-    bottom: 0;
-    width: 295px;
+    bottom: 2rem;
+    width: 255px;
+}
+
+.locaion{
+    font-size: medium;
+    font-family: 'JetBrains Mono', monospace;
 }
